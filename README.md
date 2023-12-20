@@ -45,7 +45,7 @@ Watching, finding videos through fetching from youtube, filters on the sidebar
 
 ## Creators
 
-- [Nikityuk Vlad](#t.me/Slev222) — Front-End Engineer
+- [Nikityuk Vlad]: https://t.me/Slev222 — Front-End Engineer
 
 ## Sources
 
